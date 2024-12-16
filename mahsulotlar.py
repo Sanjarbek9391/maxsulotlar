@@ -1,9 +1,14 @@
+from collections import namedtuple
+
+
 class Mahsulotlar:
     def __init__(self,nomi,narx,muddat):
         self.nomi=nomi
         self.narx=narx
         self.muddat=muddat
 
+
+# Mahsulotlar= namedtuple("Mahsulotlar",(["nomi","narx","mudddat"]))
 
 tavar1=Mahsulotlar("kartoshka",9000,"02/02/2025")
 tavar2=Mahsulotlar("fanta",15000,"02/06/2025")
