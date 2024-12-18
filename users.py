@@ -12,3 +12,5 @@ user_2 = User(+998900199922, 8600130963070001, None, False, True, 4456)
 user_3 = User(+998900199923, 8600130963070002, None, False, True, 4457)
 user_4 = User(+998900199924, 8600130963070003, None, False, True, 4458)
 user_5 = User(+998900199925, 8600130963070004, None, True, False, 4459)
+
+users = [user_1, user_2, user_3, user_4, user_5]
