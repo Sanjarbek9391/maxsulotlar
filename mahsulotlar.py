@@ -3,6 +3,7 @@ class Mahsulotlar:
         self.nomi = nomi
         self.narx = narx
         self.muddat = muddat
+        self.soni = 100
 
 
 tavar1 = Mahsulotlar("kartoshka", 9000, "02/02/2025")
