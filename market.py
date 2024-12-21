@@ -1,4 +1,4 @@
-"""Azamat"""
+
 from mahsulotlar import tavarlar
 
 
