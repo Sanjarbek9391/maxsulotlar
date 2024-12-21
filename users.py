@@ -1,3 +1,4 @@
+"Farrux"
 class User:
     def __init__(self, phone, card, is_admin, is_client, password):
         self.phone = phone
