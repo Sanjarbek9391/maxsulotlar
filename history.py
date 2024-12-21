@@ -1,4 +1,4 @@
-
+"sanjar"
 class History:
     def __init__(self, user, tovar, miqdori, narx):
         self.user = user
