@@ -1,4 +1,4 @@
-
+"Farrux"
 class Market:
     def __init__(self, title, balance):
         self.title = title
